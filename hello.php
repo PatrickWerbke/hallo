@@ -1,3 +1,3 @@
 <?php
 echo 'hello'.'<br />';
-echo 'tschüß';
+echo 'tschuess';
